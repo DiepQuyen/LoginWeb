@@ -19,13 +19,13 @@
 <!--    </servlet-mapping>-->
 
 <!--    <servlet>-->
-<!--        <servlet-name>LogoutServlet</servlet-name>-->
-<!--        <servlet-class>org.example.webapp.controller.LogoutServlet</servlet-class>-->
+<!--        <servlet-name>ProductServlet</servlet-name>-->
+<!--        <servlet-class>org.example.webapp.controller.ProductServlet</servlet-class>-->
 <!--    </servlet>-->
 
 <!--    <servlet-mapping>-->
-<!--        <servlet-name>LogoutServlet</servlet-name>-->
-<!--        <url-pattern>/logout</url-pattern>-->
+<!--        <servlet-name>ProductServlet</servlet-name>-->
+<!--        <url-pattern>/products</url-pattern>-->
 <!--    </servlet-mapping>-->
 
 </web-app>

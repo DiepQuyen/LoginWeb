@@ -14,6 +14,7 @@
   }
 %>
 <h2>Chào mừng, <%= username %>!</h2>
+<div>Danh sách sản phẩm -> <a href="${pageContext.request.contextPath}/products">Ấn vào đây</a></div>
 <a href="logout">Đăng xuất</a>
 </body>
 </html>
